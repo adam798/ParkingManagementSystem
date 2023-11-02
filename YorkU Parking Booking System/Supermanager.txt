@@ -1,0 +1,1 @@
+ * The username for Supermanager is "supermanager" and password "pass123"
